@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Pooh",
+      "age": "5",
+      "city": "mahad"
+    },
+    {
+      "name": "Purva",
+      "age": "8",
+      "city": "ratnagiri",
+      "id": 5
+    },
+    {
+      "name": "Mithu",
+      "age": "4",
+      "city": "Thane",
+      "id": 6
+    }
+  ]
+}
